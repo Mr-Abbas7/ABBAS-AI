@@ -10,7 +10,7 @@ ___
 
 <div align="center"> 
   <a href="https://github.com/Mr-Abbas7/ABBAS-AI">
-    <img src="https://files.catbox.moe/3r8g4w.jpeg" alt="ABBAS-AI BOT" height="600">
+    <img src="https://files.catbox.moe/3r8g4w.jpeg" alt="ABBAS-AI BOT" height="1280">
   </a> 
 </div>
 
